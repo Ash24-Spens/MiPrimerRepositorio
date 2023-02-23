@@ -1,0 +1,4 @@
+Menu
+Articulos
+Fotos
+Pie de pagina
