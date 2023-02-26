@@ -5,3 +5,4 @@ Comentarios
 Pie de pagina
 Cambios
 Si
+Que da pendiente el inicio de sesion por roles
